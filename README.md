@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I’m Mattéo Bevilacqua 👋  
 
 I’m a Master’s student in **Mathematical Engineering (Statistical Learning track)** at Politecnico di Milano, with a background from **École Centrale de Lyon** and classes préparatoires at **Lycée Louis-le-Grand (MPSI/MP)**.  
